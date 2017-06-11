@@ -3,6 +3,7 @@
     "description": "Export csv with mysql easier",
     "minimum-stability": "dev",
     "type": "library",
+    "license": "MIT",
     "require": {
         "php": ">=5.6.4"
     },

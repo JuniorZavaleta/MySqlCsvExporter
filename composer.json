@@ -1,0 +1,14 @@
+{
+    "name": "juniorzavaleta/mysql-csv",
+    "description": "Export csv with mysql easier",
+    "type": "library",
+    "require": {
+        "php": "5.6"
+    },
+    "authors": [
+        {
+            "name": "Junior Zavaleta",
+            "email": "juniorclaudiozavaleta@gmail.com"
+        }
+    ]
+}

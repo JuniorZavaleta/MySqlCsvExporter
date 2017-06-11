@@ -126,7 +126,7 @@ class CsvGenerator
     {
         $columns = is_array($columns) ? $columns : func_get_args();
 
-        if (count($titles) > 0) {
+        if (count($columns) > 0) {
             $this->columns = implode(', ', $columns);
         }
     }

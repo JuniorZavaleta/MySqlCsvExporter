@@ -11,5 +11,10 @@
             "name": "Junior Zavaleta",
             "email": "juniorclaudiozavaleta@gmail.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "Csv\\": "src/"
+        }
+    }
 }

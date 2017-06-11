@@ -1,6 +1,7 @@
 {
     "name": "juniorzavaleta/mysql-csv",
     "description": "Export csv with mysql easier",
+    "minimum-stability": "stable",
     "type": "library",
     "require": {
         "php": "5.6"

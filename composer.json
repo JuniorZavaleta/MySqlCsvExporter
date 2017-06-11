@@ -1,7 +1,7 @@
 {
     "name": "juniorzavaleta/mysql-csv",
     "description": "Export csv with mysql easier",
-    "minimum-stability": "master",
+    "minimum-stability": "dev",
     "prefer-stable": true,
     "type": "library",
     "require": {
